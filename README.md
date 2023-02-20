@@ -1,21 +1,16 @@
-# Welcome!
+# API Reference
 
-## Welcome to MyAPI
+Dive into the specifics of each API endpoint by checking out our complete documentation.
 
-Welcome to MyAPI! Here you'll find all the documentation you need to get up and running with the MyAPI API.
+## Projects&#x20;
 
-## Want to jump right in?
+All the methods associated with `CRUD`ing some pets. Which isn't as weird as it sounds:
 
-Feeling like an eager beaver? Jump in to the quick start docs and get making your first request:
+## Users
 
-{% content-ref url="quick-start.md" %}
-[quick-start.md](quick-start.md)
-{% endcontent-ref %}
+Everything related to users:
 
-## Want to deep dive?
+{% hint style="info" %}
 
-Dive a little deeper and start exploring our API reference to get an idea of everything that's possible with the API:
+{% endhint %}
 
-{% content-ref url="reference/api-reference/" %}
-[api-reference](reference/api-reference/)
-{% endcontent-ref %}
